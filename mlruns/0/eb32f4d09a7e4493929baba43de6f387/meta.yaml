@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Admin/Desktop/Sentiment%20analysis/mlruns/0/eb32f4d09a7e4493929baba43de6f387/artifacts
+end_time: 1715789266066
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eb32f4d09a7e4493929baba43de6f387
+run_name: result-484
+run_uuid: eb32f4d09a7e4493929baba43de6f387
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715788644514
+status: 3
+tags: []
+user_id: Admin
